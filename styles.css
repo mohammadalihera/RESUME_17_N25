@@ -180,6 +180,7 @@ body{
 .skill-row{
 	display: flex;
 	margin-left: 30px;
+	justify-content: space-evenly;
 }
 .skill_level{
 	margin-bottom: 10px;
@@ -300,6 +301,7 @@ body{
 	font-size: 12px;
 	line-height: 18px;
 	text-align: justify;
+	margin-right: 15px;
 }
 .margin_section{
 	margin-top: 15px;
